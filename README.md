@@ -2,3 +2,4 @@
 comparing two products and fetching helpful insights 
 Analysis of Sales of Products
 Generating Logical insights for businesses to grow 
+Unique Dashboard displaying Analysis of product performance 
